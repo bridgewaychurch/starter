@@ -5,7 +5,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://bridgewaychurch.ca/'
   relativeLinks: 'http://bridgewaychurch.ca/links.jsonp'
-  media: 'media'
+  media: 'img'
   metadata:
     _posts:
       - name: "category"
